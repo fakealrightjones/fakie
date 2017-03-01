@@ -1,3 +1,3 @@
 # fakie
 
-## Oh shit.
+## Oh shit!
